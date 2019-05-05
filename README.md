@@ -1,9 +1,10 @@
 # hosts - Windows system file 
 %WinDir%\System32\Drivers\Etc
 
-# Default content
+### Default content
 
-## Copyright (c) 1993-2006 Microsoft Corp.
+```
+# Copyright (c) 1993-2006 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
@@ -23,3 +24,4 @@
 # localhost name resolution is handle within DNS itself.
 #       127.0.0.1       localhost
 #       ::1             localhost
+```

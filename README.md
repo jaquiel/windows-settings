@@ -25,3 +25,7 @@
 #       127.0.0.1       localhost
 #       ::1             localhost
 ```
+
+######fontes
+[microsoft](https://support.microsoft.com/pt-br/help/972034/how-to-reset-the-hosts-file-back-to-the-default)
+[hostigator](https://suporte.hostgator.com.br/hc/pt-br/articles/115000391994-Funcionalidades-do-arquivo-hosts)

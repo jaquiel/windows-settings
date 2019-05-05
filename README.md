@@ -26,6 +26,6 @@
 #       ::1             localhost
 ```
 
-###### fontes: 
-[Microsoft](https://support.microsoft.com/pt-br/help/972034/how-to-reset-the-hosts-file-back-to-the-default),
+##### fontes
+[Microsoft](https://support.microsoft.com/pt-br/help/972034/how-to-reset-the-hosts-file-back-to-the-default)
 [Hostigator](https://suporte.hostgator.com.br/hc/pt-br/articles/115000391994-Funcionalidades-do-arquivo-hosts)
